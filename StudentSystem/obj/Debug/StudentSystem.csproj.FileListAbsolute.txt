@@ -1,0 +1,8 @@
+Z:\New folder\StudentSystem\bin\Debug\StudentSystem.exe.config
+Z:\New folder\StudentSystem\bin\Debug\StudentSystem.exe
+Z:\New folder\StudentSystem\bin\Debug\StudentSystem.pdb
+Z:\New folder\StudentSystem\obj\Debug\StudentSystem.csproj.AssemblyReference.cache
+Z:\New folder\StudentSystem\obj\Debug\StudentSystem.csproj.SuggestedBindingRedirects.cache
+Z:\New folder\StudentSystem\obj\Debug\StudentSystem.csproj.CoreCompileInputs.cache
+Z:\New folder\StudentSystem\obj\Debug\StudentSystem.exe
+Z:\New folder\StudentSystem\obj\Debug\StudentSystem.pdb
